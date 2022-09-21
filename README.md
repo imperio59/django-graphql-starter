@@ -1,5 +1,7 @@
 # django-graphql-starter
-A starter template for new Django + GraphQL Projects using Strawberry
+An opinionated starter template for new Django Projects with GraphQL Support via Strawberry + Strawberry Django Plus and a basic Webpack React & Relay setup that hopefully doesn't suck.
+
+This works for me, I hope it works for you too.
 
 # Running the Project
 
